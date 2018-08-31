@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs
+/Application/obj/Debug
+/GetCodFirstEF/.vs
+/GetCodFirstEF/packages
+/packages
+/WebApI/bin
+/WebApI/obj/Debug
+/GetCodFirstEF/CodFirstEF/bin
+/GetCodFirstEF/CodFirstEF/obj/Debug
+/GetCodFirstEF/CodFirstEF/Scripts/WebForms/MSAjax
+/GetCodFirstEF/CodFirstEF/Scripts
+/GetCodFirstEF/CodFirstEF/Content
+/GetCodFirstEF/CodFirstEF/fonts
