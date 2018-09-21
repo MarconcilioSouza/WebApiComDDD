@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConectCar.Framework.Infrastructure.Errors</id>
+    <version>$BUILD_VERSION$</version>
+    <authors>ConectCar</authors>
+    <owners>ConectCar</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Conjunto de interfaces e classes base para aplicação do Domain Model.</description>
+    <releaseNotes>Versão inicial do pacote.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>ConectCar Infrastructure Errors</tags>
+    <dependencies>
+      <dependency id="ConectCar.Framework.Infrastructure.Log" version="$BUILD_VERSION$" />      
+    </dependencies>
+  </metadata>
+  <files>
+	  <file src="bin\Release\ConectCar.Framework.Infrastructure.Errors.dll" target="lib" />
+	  <file src="bin\Release\ConectCar.Framework.Infrastructure.Errors.pdb" target="lib" />
+  </files>
+</package>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConectCar.Framework.Infrastructure.Json</id>
+    <version>$BUILD_VERSION$</version>
+    <authors>ConectCar</authors>
+    <owners>ConectCar</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Serializador/deserializador de json</description>
+    <releaseNotes>Versão inicial do pacote.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>ConectCar Infrastructure Json</tags>
+    <dependencies>
+      <dependency id="Jil" version="2.15.4.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\ConectCar.Framework.Infrastructure.Json.dll" target="lib" />
+    <file src="bin\Release\ConectCar.Framework.Infrastructure.Json.pdb" target="lib" />
+  </files>
+</package>
